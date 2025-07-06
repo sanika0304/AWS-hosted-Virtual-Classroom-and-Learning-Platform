@@ -42,16 +42,16 @@ AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 ## Screen Shots
 
 ### Home Page:
-![Home Page](https://drive.google.com/uc?export=view&id=1sBl4w-NyDVD9nvIy2aV10P1J9HCEyS1l)
+![Home Page](https://drive.google.com/file/d/1Fkf7EaEOVU4aEnIghNhLh1g3LgzDwvPY/view?usp=drive_link)
 
 ### Registration Page:
-![Registration Page](https://drive.google.com/uc?export=view&id=16kp8Leto7fludFmGJny8gs14olkp8QS_)
+![Registration Page](https://drive.google.com/file/d/1iBa6t61ZnNmeEYPdiXOdgCLEYb_K-Hvn/view?usp=drive_link)
 
 ### Login Page:
-![Login Page](https://drive.google.com/uc?export=view&id=1F2yvH4nqio_dg8v8D1vc1Q8sknttmOb9)
+![Login Page](https://drive.google.com/file/d/1WbT0Z1VokSl8llHCh_a4IT_hGIjha2x2/view?usp=drive_link)
 
 ### Content Page:
-![Content Page](https://drive.google.com/uc?export=view&id=1r4wsKWqOZUvhrvEG2axeuZrGIdHhnYtO)
+![Content Page](https://drive.google.com/file/d/1eoSSBu0e9Thwir0HYvlVUC54bPC710qh/view?usp=drive_link)
 
 
 ---
@@ -102,5 +102,5 @@ This project showcases how web applications can be effectively deployed and scal
 
 ## 🔗 Demo and Source Code
 
-- 🎥 [Demo Video](https://drive.google.com/file/d/1sXFfP4cZmmT8hJ0h3voknxtMfanGDPlj/view?usp=sharing)  
-- 🧾 [GitHub Repository](https://github.com/Rohitmh09/AWS-hosted-Virtual-Classroom-and-Learning-Platform-main.git)
+- 🎥 [Demo Video](https://drive.google.com/file/d/1U5NBc5tMXtcSPINr82e8SfLwHIV9WtaZ/view?usp=drive_link)
+- 🧾 [GitHub Repository](https://github.com/sanika0304/AWS-hosted-Virtual-Classroom-and-Learning-Platform.git)
